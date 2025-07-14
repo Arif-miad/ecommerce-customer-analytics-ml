@@ -155,7 +155,7 @@ Free to use for educational and research purposes.
 **Arif Miah**
 🎓 BSc in Computer Science & Engineering
 🏆 3X Kaggle Expert | Machine Learning Engineer
-🔗 [LinkedIn](www.linkedin.com/in/arif-miah-8751bb217) | [GitHub](https://github.com/Arif-miad) | [Kaggle](https://www.kaggle.com/code/miadul/e-commerce-customer-intelligence-ml-clustering) | [YouTube]([https://youtube.com](https://www.youtube.com/@intelliaiworld))
+🔗 [LinkedIn](www.linkedin.com/in/arif-miah-8751bb217) | [GitHub](https://github.com/Arif-miad) | [Kaggle](https://www.kaggle.com/code/miadul/e-commerce-customer-intelligence-ml-clustering) | [YouTube](https://www.youtube.com/@intelliaiworld)
 
 ---
 
